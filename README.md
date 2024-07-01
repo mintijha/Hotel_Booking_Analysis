@@ -105,8 +105,12 @@ Promote online payment options for convenience.
 
 This project has successfully provided deep insights into hotel booking trends, customer preferences, and factors affecting bookings. By leveraging these insights, hotels can enhance their business strategies, improve customer satisfaction, and ultimately increase revenue.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
