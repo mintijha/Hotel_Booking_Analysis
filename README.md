@@ -66,6 +66,16 @@ Outlier Detection: Identifying and removing outliers.
 
 Detailed visualizations provide a clear understanding of various booking trends and customer behaviors.
 
+Seasonal Trends
+
+Customer Preferences
+
+Booking Patterns
+
+Lead Time and Room Preferences
+
+Customer Demographics and Behavior
+
 ## 💡  Business Impact
 
 Revenue Optimization: Adjust pricing strategies based on peak periods
