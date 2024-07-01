@@ -1,6 +1,6 @@
 # 📊 Hotel Booking Analysis - EDA Capstone Project
 
-![image](https://github.com/mintijha/Hotel_Booking_Analysis/assets/123978172/5d50d66f-0047-46e5-aa3d-99f25ec852bc)
+  ![image](https://github.com/mintijha/Hotel_Booking_Analysis/assets/123978172/5d50d66f-0047-46e5-aa3d-99f25ec852bc)
 
 Welcome to the Hotel Booking Analysis project! This repository contains a comprehensive exploratory data analysis (EDA) of hotel booking data to uncover insights that can help enhance business strategies in the hospitality industry.
 
