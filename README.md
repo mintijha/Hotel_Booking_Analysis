@@ -4,16 +4,16 @@
 
 Welcome to the Hotel Booking Analysis project! This repository contains a comprehensive exploratory data analysis (EDA) of hotel booking data to uncover insights that can help enhance business strategies in the hospitality industry.
 
-🏢 #### Industry Context
+## 🏢 Industry Context
 The hospitality and tourism industry thrives on understanding customer preferences and booking trends. Effective analysis of historical booking data can provide actionable insights to improve services, increase revenue, and enhance customer satisfaction.
 
-🎯 #### Project Objectives
+## 🎯  Project Objectives
 Identify Peak Booking Periods: Analyze booking trends to identify peak seasons.
 Understand Customer Preferences: Examine preferences related to hotel types, stay lengths, meal plans, and room types.
 Investigate Cancellations: Discover patterns and reasons behind booking cancellations.
 Actionable Insights: Provide data-driven recommendations to improve business decision-making.
 
-📂 #### Dataset
+## 📂  Dataset
 
 The dataset includes the following key attributes:
 
@@ -48,7 +48,7 @@ ADR: Average daily rate
 
 Parking_spaces: Number of parking spaces required
 
-🔍 #### Data Preprocessing
+## 🔍  Data Preprocessing
 
 Steps taken to prepare the data for analysis:
 
@@ -62,11 +62,11 @@ Categorical Encoding: Converting categorical variables to numeric.
 
 Outlier Detection: Identifying and removing outliers.
 
-🎨 #### Visualizations
+## 🎨  Visualizations
 
 Detailed visualizations provide a clear understanding of various booking trends and customer behaviors.
 
-💡 #### Business Impact
+## 💡  Business Impact
 
 Revenue Optimization: Adjust pricing strategies based on peak periods
 .
@@ -76,7 +76,7 @@ Operational Efficiency: Better resource allocation during peak times.
 
 Reducing Cancellations: Develop strategies to minimize cancellations.
 
-👥 #### User Impact
+## 👥  User Impact
 Enhanced Experience: Tailored services and offers for customers.
 
 Better Deals: Special promotions during peak seasons.
@@ -101,7 +101,7 @@ Offer facilities like swimming pools, cafes, and shops.
 
 Promote online payment options for convenience.
 
-📚 #### Conclusion
+## 📚 Conclusion
 
 This project has successfully provided deep insights into hotel booking trends, customer preferences, and factors affecting bookings. By leveraging these insights, hotels can enhance their business strategies, improve customer satisfaction, and ultimately increase revenue.
 
